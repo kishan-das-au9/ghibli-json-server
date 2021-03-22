@@ -2804,6 +2804,74 @@
       "image_url": "https://i.pinimg.com/564x/c6/a8/48/c6a848ed754ed6fc23f5acd4c3ef9ceb.jpg"
     }
   ],
+  "television":[ {
+    "id": "ea660b10-85c4-4ae3-8a5f-41cea3648e3etv",
+    "title": "Ocean Waves",
+    "description": "The school year ends, heralding the Hawaii trip. Taku, suffering from an upset stomach, is stopped in the hotel lobby by Rikako. She explains that she has lost her money and asks to borrow some. As Taku has a part-time job, he lends her ¥60,000.",
+    "director": "Tomomi Mochizuki",
+    "producer": "Toshio Suzuki, Nozomu Takahashi & Seiji Okuda",
+    "release_date": "1993",
+    "runtime" : "72 minutes",
+    "back_wall": "https://wallpaperaccess.com/full/496068.jpg",
+    "trailer_url": "https://www.youtube.com/watch?v=4bG17OYs-GA",
+    "rt_score": "88",
+    "characters": [
+      "https://studio-ghibli-universe-api.herokuapp.com/characters/7151abc6-1a9e-4e6a-9711-ddb50ea572ec"
+    ],
+    "char": [
+      {
+        "id": "7151abc6-1a9e-4e6a-9711-ddb50ea572ectv",
+        "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/7/73/Taku.png/revision/latest?cb=20120102013114",
+        "name": "Taku Morisaki"
+      }
+      
+    ],
+
+    "video_buy": [
+      {
+        "merch_link": "https://www.madman.com.au/catalogue/view/3371",
+        "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
+        "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3371/3371-678670.png"
+      },
+      {
+        "merch_link": "https://www.madman.com.au/catalogue/view/19630",
+        "name": "Blu-Ray [Special Features:  Alternate Angle Storyboard, The Making, Behind The Mic]",
+        "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/19630/19630-546167.jpg"
+      },
+      {
+        "merch_link": "https://www.madman.com.au/catalogue/view/14130",
+        "name": "Graphic Novel [Full-Color Pictures from the film, Family-friendly Oversized Hardcover Format.]",
+        "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/14130/14130-544071.jpg"
+      }
+    ],
+    "merch_buy": [
+      {
+        "name": "T-shirt",
+        "merch_link": "https://www.redbubble.com/i/hoodie/Laputa-Scenery-by-lindsay729/63986692.GQV8B.XYZ#&gid=1&pid=2",
+        "image_url": "https://ih1.redbubble.net/image.1974693226.6692/ssrco,lightweight_hoodie,mens,grey_lightweight_hoodie,front,tall_three_quarter,x1000-bg,f8f8f8.2.jpg"
+      },
+      {
+        "name": "Accessories",
+        "merch_link": "https://www.redbubble.com/i/mug/Laputa-Concept-Art-by-lindsay729/57822639.V33QC",
+        "image_url": "https://ih1.redbubble.net/image.1758027776.2639/mug,travel,x1000,right-pad,750x1000,f8f8f8.jpg"
+      },
+      {
+        "name": "Posters",
+        "merch_link": "https://www.redbubble.com/i/poster/Laputa-Don-t-Give-UP-by-UnTrucEnPlus/55958660.LVTDI",
+        "image_url": "https://ih1.redbubble.net/image.1582977152.8660/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+      }
+    ],
+    "species": [
+      "https://studio-ghibli-universe-api.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+    ],
+    "locations": [
+      "https://studio-ghibli-universe-api.herokuapp.com/locations/"
+    ],
+    "vehicles": [
+      "https://studio-ghibli-universe-api.herokuapp.com/vehicles/"
+    ],
+    "image_url": "https://amc-theatres-res.cloudinary.com/v1553857530/amc-cdn/production/2/movies/59800/59840/Poster/288261R1.jpg"
+  },],
   "wishlist": [
    
   ]

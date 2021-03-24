@@ -3301,7 +3301,7 @@
     "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png"
   }
   ],
-  "shopping":[
+  "blu_rays":[
     
         { 
           "id": "blu1",
@@ -3314,74 +3314,79 @@
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
-        },
-      
+        }
+      ],
 
-
-        {
-          "id": "dvd1",
+  "dvds":[
+    
+        { 
+          "id": "blu1",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
         },
         {
-          "id": "dvd2",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
-          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
-        },
-
-
-      
-        {
-          "id": "tshirt1",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
-          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
-        },
-        {
-          "id": "tshirt2",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
-          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
-        },
-
-
-      
-        {
-          "id": "accessories1",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
-          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
-        },
-        {
-          "id": "accessories2",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
-          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
-        },
-
-
-
-        {
-          "id": "poster1",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
-          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
-        },
-        {
-          "id": "poster2",
+          "id": "blu2",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
         }
+      ],
+
+  "tshirts":[
+    
+        { 
+          "id": "blu1",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu2",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        }
+      ],
+
+  "accessories":[
+    
+        { 
+          "id": "blu1",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu2",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        }
+      ],
+
+  "posters":[
+    
+        { 
+          "id": "blu1",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu2",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        }
+      ],
       
 
 
     
 
 
-  ],
+
 
   "films_playlist": [
    

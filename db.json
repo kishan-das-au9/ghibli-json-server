@@ -9,6 +9,7 @@
       "release_date": "1986",
       "back_wall": "https://wallpaperaccess.com/full/125880.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=FWjiXOqRKhk",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616549591/Castle_In_The_Sky-1_qghexz.mp4",
       "char": [
         {
           "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c01",
@@ -159,6 +160,7 @@
       "release_date": "1988",
       "back_wall": "https://c4.wallpaperflare.com/wallpaper/171/395/688/studio-ghibli-my-neighbor-totoro-totoro-anime-girls-wallpaper-preview.jpg",
       "trailer_url": "https://youtu.be/srW-wajSxog",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553090/My_Neighbour_Totoro-1_tp6uaf.mp4",
       "rt_score": "93",
       "char": [
         {
@@ -284,6 +286,7 @@
       "release_date": "1989",
       "back_wall": "https://wallpaperaccess.com/full/496068.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=4bG17OYs-GA",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616546403/Kiki_s_Delivery_Service_gxtqpt.mp4",
       "rt_score": "96",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/7151abc6-1a9e-4e6a-9711-ddb50ea572ec"
@@ -354,6 +357,7 @@
       "release_date": "1991",
       "back_wall": "https://c4.wallpaperflare.com/wallpaper/475/893/272/movie-only-yesterday-wallpaper-preview.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=x0ZrjocXVJ4",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553146/Only_Yesterday-1_opquxn.mp4",
       "rt_score": "100",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -414,6 +418,7 @@
       "release_date": "1992",
       "back_wall": "https://c4.wallpaperflare.com/wallpaper/627/519/819/movie-porco-rosso-wallpaper-preview.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=awEC-aLDzjs",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553312/Porco_Rosso-1_wszi9i.mp4",
       "rt_score": "94",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/6523068d-f5a9-4150-bf5b-76abe6fb42c3"
@@ -489,6 +494,7 @@
       "release_date": "1994",
       "back_wall": "https://vistapointe.net/images/pom-poko-wallpaper-4.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=_7cowIHjCD4",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553248/Pom_Poko-1_o76lht.mp4",
       "rt_score": "78",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -549,6 +555,7 @@
       "release_date": "1995",
       "back_wall": "https://wallpaperaccess.com/full/1459613.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=0pVkiod6V0U",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616554096/Whisper_Of_The_Heart-1_suui0q.mp4",
       "rt_score": "91",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/6b3facea-ea33-47b1-96ce-3fc737b119b8",
@@ -610,6 +617,7 @@
       "release_date": "1997",
       "back_wall": "https://i1.wp.com/wallur.com/wp-content/uploads/2016/12/mononoke-background-1.jpg?fit=1920%2C1080",
       "trailer_url": "https://www.youtube.com/watch?v=4OiMOHRDs14",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553414/Princess_Mononoke-1_cgnd9c.mp4",
       "rt_score": "92",
       "char": [
         {
@@ -735,6 +743,7 @@
       "release_date": "1999",
       "back_wall": "https://vistapointe.net/images/my-neighbors-the-yamadas-wallpaper-19.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=1C9ujuCPlnY",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553034/My_Neighbour_The_Yamadas-1_vemjyn.mp4",
       "rt_score": "75",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -795,6 +804,7 @@
       "release_date": "1988",
       "back_wall": "https://wallpaperaccess.com/full/2001913.jpg ",
       "trailer_url": "https://www.youtube.com/watch?v=4vPeTSRd580",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616552883/Grave_Of_The_Fireflies-1_nr3dl2.mp4",
       "rt_score": "97",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -859,6 +869,7 @@
       "release_date": "2001",
       "back_wall": "https://images.hdqwalls.com/download/spirited-away-vp-1920x1080.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=ByXuk9QqQkk",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553492/Spirited_Away-1_dgjp8d.mp4",
       "rt_score": "97",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -924,6 +935,7 @@
       "release_date": "2002",
       "back_wall": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/m7txl-TEQ33GV6M7R-Full-Image_GalleryCover-en-US-1581442842569._UR1920,1080_RI_.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=Gp-H_YOcYTM",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553644/The_Cat_Returns-1_mycu1z.mp4",
       "rt_score": "89",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/6b3facea-ea33-47b1-96ce-3fc737b119b8",
@@ -1013,6 +1025,7 @@
       "release_date": "2004",
       "back_wall": "https://www.teahub.io/photos/full/229-2297203_howl-s-moving-castle-hd-wallpapers-desktop-wallpaper.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=iwROgK94zcM",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616552944/Howl_s_Moving_Castle-1_mss1kp.mp4",
       "rt_score": "87",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -1078,6 +1091,7 @@
       "release_date": "2006",
       "back_wall": "https://wallpaperaccess.com/full/2407418.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=8hxYx3Jq3kI",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553581/Tales_From_Earthsea-1_srfvps.mp4",
       "rt_score": "41",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -1138,6 +1152,7 @@
       "release_date": "2008",
       "back_wall": "https://studioghiblimovies.com/wp-content/uploads/2018/11/thumb-1920-574808.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=CsR3KVgBzSM",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553356/Ponyo-1_e8ipsg.mp4",
       "rt_score": "92",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/a10f64f3-e0b6-4a94-bf30-87ad8bc51607"
@@ -1207,6 +1222,7 @@
       "release_date": "2010",
       "back_wall": "https://cdn.hipwallpaper.com/i/25/74/RW67Lb.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=9CtIXPhPo0g",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616552752/Arrietty-1_ase6os.mp4",
       "rt_score": "95",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/89026b3a-abc4-4053-ab1a-c6d2eea68faa"
@@ -1272,6 +1288,7 @@
       "release_date": "2011",
       "back_wall": "https://cutewallpaper.org/21/boy-and-girl-wallpaper/From-Up-On-Poppy-Hill,-boy-and-girl-on-a-bicycle-wallpapers-.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=9nzpk_Br6yo",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616552823/From_Up_On_Poppy_Hill-1_m7kksr.mp4",
       "rt_score": "83",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -1332,6 +1349,7 @@
       "release_date": "2013",
       "back_wall": "https://cdn.wallpapersafari.com/98/17/LoB7t4.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=imtdgdGOB6Q",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553971/The_Wind_Rises-1_vvm6eu.mp4",
       "rt_score": "89",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -1397,6 +1415,7 @@
       "release_date": "2013",
       "back_wall": "https://images6.alphacoders.com/790/thumb-1920-790706.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=W71mtorCZDw",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616553696/The_Tale_Of_The_Princess_Kaguya-1_e38z37.mp4",
       "rt_score": "100",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
@@ -1457,6 +1476,7 @@
       "release_date": "2014",
       "back_wall": "https://c4.wallpaperflare.com/wallpaper/695/234/487/movie-when-marnie-was-there-wallpaper-preview.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=jjmrxqcQdYg",
+      "video_url": "https://res.cloudinary.com/aryabhatta/video/upload/v1616554039/When_Marnie_Was_There-1_uwshcc.mp4",
       "rt_score": "92",
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"

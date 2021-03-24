@@ -3301,7 +3301,7 @@
     "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png"
   }
   ],
-  "blu_rays":[
+  "blu_ray":[
     
         { 
           "id": "blu1",
@@ -3317,7 +3317,7 @@
         }
       ],
 
-  "dvds":[
+  "dvd":[
     
         { 
           "id": "blu1",
@@ -3333,7 +3333,7 @@
         }
       ],
 
-  "tshirts":[
+  "tshirt":[
     
         { 
           "id": "blu1",
@@ -3349,7 +3349,7 @@
         }
       ],
 
-  "accessories":[
+  "accessorie":[
     
         { 
           "id": "blu1",
@@ -3365,7 +3365,7 @@
         }
       ],
 
-  "posters":[
+  "poster":[
     
         { 
           "id": "blu1",

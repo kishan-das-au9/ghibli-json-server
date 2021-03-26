@@ -3336,9 +3336,105 @@
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
         },
         {
-          "id": "blu2",
+          "id": "blu3",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
-          "name": "MY NEIGHBOR TOTORO",
+          "name": "KIKI'S DELIVERY SERVICE",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu4",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "ONLY YESTERDAY",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu5",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "PORCO ROSSO",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu6",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "POM POKO",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu7",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "WHISPER OF THE HEART",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu8",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "PRINCESS MONONOKE",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu9",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "MY NEIGHBORS THE YAMADAS",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu10",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "GRAVE OF THE FIREFLIES",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu11",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "SPIRITED AWAY",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu12",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "THE CAT RETURNS",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu13",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "TALES FROM THE EARTHSEA",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu14",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "PONYO",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu15",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "ARRIETTY",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu16",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "FROM UP ON POPPY HILL",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu17",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "THE WIND RISES",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu18",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "The Tale of the Princess Kaguya",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
+        },
+        {
+          "id": "blu19",
+          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
+          "name": "WHEN MARNIE WAS THERE",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
         }
       ],
@@ -3346,13 +3442,13 @@
   "dvd":[
     
         { 
-          "id": "blu1",
+          "id": "dvd1",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "CASTLE IN THE SKY",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
         },
         {
-          "id": "blu2",
+          "id": "dvd2",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "MY NEIGHBOR TOTORO",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
@@ -3362,13 +3458,13 @@
   "tshirt":[
     
         { 
-          "id": "blu1",
+          "id": "tshirt1",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "CASTLE IN THE SKY",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
         },
         {
-          "id": "blu2",
+          "id": "tshirt2",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "MY NEIGHBOR TOTORO ",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
@@ -3378,13 +3474,13 @@
   "accessories":[
     
         { 
-          "id": "blu1",
+          "id": "accessories1",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "CASTLE IN THE SKY",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
         },
         {
-          "id": "blu2",
+          "id": "accessories2",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "MY NEIGHBOR TOTORO ",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
@@ -3394,13 +3490,13 @@
   "poster":[
     
         { 
-          "id": "blu1",
+          "id": "poster1",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "CASTLE IN THE SKY",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
         },
         {
-          "id": "blu2",
+          "id": "poster2",
           "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "MY NEIGHBOR TOTORO ",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
@@ -3410,13 +3506,13 @@
   "videogames":[
 
     { 
-      "id": "blu1",
+      "id": "videogames1",
       "merch_link": "https://www.madman.com.au/catalogue/view/3369",
       "name": "CASTLE IN THE SKY",
       "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
     },
     {
-      "id": "blu2",
+      "id": "videogames2",
       "merch_link": "https://www.madman.com.au/catalogue/view/3369",
       "name": "MY NEIGHBOR TOTORO ",
       "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3369/3369-539429.jpg"
@@ -3436,7 +3532,17 @@
   "television_playlist": [
    
   ],
-  "shopping_wishlist": [
+  "blu_ray_wishlist": [
+  ],
+  "dvd_wishlist": [
+  ],
+  "accessories_wishlist": [
+  ],
+  "tshirt_wishlist": [
+  ],
+  "poster_wishlist": [
+  ],
+  "videogames_wishlist": [
   ],
   "character_favourite": [
   ],

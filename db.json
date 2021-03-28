@@ -1589,6 +1589,29 @@
       "image_url": "https://cdna.artstation.com/p/assets/images/images/012/026/636/large/sameer-sadiq-yakul.jpg"
     },
     {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Male",
+      "image_url": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "films": [
+        {
+          "name": "Princess Mononoke",
+          "image_url": "https://m.media-amazon.com/images/I/81Yh2gl48JL._AC_SL1500_.jpg",
+          "id": "0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        }
+      ],
+      "tv_series": [
+        {
+          "name": "Pilot",
+          "id": "tv1"
+        }
+      ]
+      
+    },
+    {
       "id": "8bccdc78-545b-49f4-a4c8-756163a38c91",
       "name": "Gonza",
       "gender": "Male",

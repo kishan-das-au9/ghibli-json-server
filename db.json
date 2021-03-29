@@ -220,8 +220,9 @@
           ],
       "video_buy": [
         {
-          "merch_link": "madman.com.au/catalogue/view/3370",
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
+
+          "merch_link": "madman.com.au/catalogue/view/3370",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3370/3370-539430.jpg"
         },
         {
@@ -3425,117 +3426,117 @@
         },
         {
           "id": "dvd2",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "MY NEIGHBOR TOTORO DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "madman.com.au/catalogue/view/3370",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3370/3370-539430.jpg"
         },
         {
           "id": "dvd3",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "KIKI'S DELIVERY SERVICE DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/3371",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3371/3371-678670.png"
         },
         {
           "id": "dvd4",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "ONLY YESTERDAY DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/37326",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/19631/19631-1309931.png"
         },
         {
           "id": "dvd5",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "PORCO ROSSO DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/3374",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3374/3374-678688.png"
         },
         {
           "id": "dvd6",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "POM POKO DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/3375",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3375/3375-476583.jpg"
         },
         {
           "id": "dvd7",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "WHISPER OF YHE HEART DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/3376",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3376/3376-539435.jpg"
         },
         {
           "id": "dvd8",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "PRINCESS MONONOKE DVD",
+          "merch_link": "https://www.madman.com.au/catalogue/view/4131",
           "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
         },
         {
           "id": "dvd9",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "MY NEIGHBORS THE YAMADAS DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/3377",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3377/3377-678742.png"
         },
         {
           "id": "dvd10",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "GRAVE OF THE FIREFLIES DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/21428",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/21428/21428-511563.png"
         },
         {
           "id": "dvd11",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "SPIRITED AWAY DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/4672",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4672/4672-679395.png"
         },
         {
           "id": "dvd12",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "THE CAT RETURNS DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/3378",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/3378/3378-539437.jpg"
         },
         {
           "id": "dvd13",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "HOWL'S MOVING CASTLE DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/6848",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/6848/6848-680620.png"
         },
         {
           "id": "dvd14",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "TALES FROM EARTHSEA DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/8090",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/8090/8090-682424.png"
         },
         {
           "id": "dvd15",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "PONYO DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/13599",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/13599/13599-543663.jpg"
         },
         {
           "id": "dvd16",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "ARRIETTY DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/18618",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/18618/18618-545661.jpg"
         },
         {
           "id": "dvd17",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "FROM UP ON POPPY HILL DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/18094",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/18094/18094-546345.jpg"
         },
         {
           "id": "dvd18",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "THE WIND RISES DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/21883",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/21883/21883-890949.png"
         },
         {
           "id": "dvd19",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "PRINCES KAGUYA DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/30031",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/30031/30031-970515.png"
         },
         {
           "id": "dvd20",
-          "merch_link": "https://www.madman.com.au/catalogue/view/3369",
           "name": "WHEN MARNIE WAS THERE DVD",
-          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/4131/4131-679158.png"
+          "merch_link": "https://www.madman.com.au/catalogue/view/33684",
+          "image_url": "https://879ed873-madman-com-au.akamaized.net/media/Releases/33684/33684-1084994.png"
         }
         
       ],

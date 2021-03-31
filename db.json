@@ -214,8 +214,20 @@
           "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/68/My_Neighbor_Totoro_-_Sick_mom_and_kids.jpg"
         }
       ],
-      "loc": [],
-      "veh": [],
+      "loc": [
+        {
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }
+      ],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -296,8 +308,18 @@
           "name": "Jiji"
         }
       ],
-      "loc": [],
-      "veh": [],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -357,9 +379,35 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
+          "image_url": "https://studioghiblimovies.com/wp-content/uploads/2014/11/image0124.jpg",
+          "name": "Henri"
+        },
+        {
+          "id": "05d8d01b-0c2f-450e-9c55-aa0daa34838e",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDJ7YUtMCRMaB2LE6ogP2RbJHCtuZHEkrhQ&usqp=CAU",
+          "name": "Motro"
+        },
+        {
+          "id": "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
+          "image_url": "https://cdn.anisearch.com/images/character/cover/full/13/13993.jpg",
+          "name": "Okami"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -419,9 +467,29 @@
           "id": "6523068d-f5a9-4150-bf5b-76abe6fb42c3",
           "image_url": "https://studioghiblimovies.com/wp-content/uploads/2018/05/36.jpg",
           "name": "Porco Rosso"
+          
+        },
+        {
+          "id": "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+          "image_url": "https://cdna.artstation.com/p/assets/images/images/012/026/636/large/sameer-sadiq-yakul.jpg",
+          "name": "Yakul"
+        },
+        {
+          "id": "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
+          "image_url": "https://cdn.myanimelist.net/s/common/uploaded_files/1447962054-bee4b58a7f033135a8665e0b6cd7acd4.jpeg",
+          "name": "Shishigami"
+        },
+        {
+          "id": "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
+          "image_url": "https://i.pinimg.com/originals/27/54/ad/2754adf81344da5609e1c8959f5f9952.png",
+          "name": "Moro"
         }
       ],
-      "loc": [],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
       "veh": [
         {
           "id": "d8f893b5-1dd9-41a1-9918-0099c1aa2de8",
@@ -488,9 +556,30 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "c491755a-407d-4d6e-b58a-240ec78b5061",
+          "name": "Chibi Totoro",
+          "image_url": "https://cdn.custom-cursor.com/packs/2384/chibi-totoro-leaf--cursor-pack-b.png"
+        },
+        {
+          "id": "f467e18e-3694-409f-bdb3-be891ade1106",
+          "name": "Catbus",
+          "image_url": "https://i.pinimg.com/originals/10/1f/62/101f62dec80f787138b962fb722aaac7.jpg"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -546,9 +635,35 @@
         "https://studio-ghibli-universe-api.herokuapp.com/characters/6b3facea-ea33-47b1-96ce-3fc737b119b8",
         "https://studio-ghibli-universe-api.herokuapp.com/characters/fc196c4f-0201-4ed2-9add-c6403f7c4d32"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
+          "image_url": "https://studioghiblimovies.com/wp-content/uploads/2014/11/image0124.jpg",
+          "name": "Henri"
+        },
+        {
+          "id": "05d8d01b-0c2f-450e-9c55-aa0daa34838e",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDJ7YUtMCRMaB2LE6ogP2RbJHCtuZHEkrhQ&usqp=CAU",
+          "name": "Motro"
+        },
+        {
+          "id": "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
+          "image_url": "https://cdn.anisearch.com/images/character/cover/full/13/13993.jpg",
+          "name": "Okami"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -652,8 +767,18 @@
           "name": "Moro"
         }
       ],
-      "loc": [],
-      "veh": [],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -727,9 +852,30 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "veh": [],
-      "loc": [],
+      "char": [
+        {
+          "id": "c491755a-407d-4d6e-b58a-240ec78b5061",
+          "name": "Chibi Totoro",
+          "image_url": "https://cdn.custom-cursor.com/packs/2384/chibi-totoro-leaf--cursor-pack-b.png"
+        },
+        {
+          "id": "f467e18e-3694-409f-bdb3-be891ade1106",
+          "name": "Catbus",
+          "image_url": "https://i.pinimg.com/originals/10/1f/62/101f62dec80f787138b962fb722aaac7.jpg"
+        }
+      ],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -796,8 +942,18 @@
           "name": "Setsuko Yokokawa"
         }
       ],
-      "loc": [],
-      "veh": [],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "Blu-Ray [Special Features:  Alternate Angle Storyboard, The Making, Behind The Mic]",
@@ -847,9 +1003,50 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
+          "image_url": "https://studioghiblimovies.com/wp-content/uploads/2014/11/image0124.jpg",
+          "name": "Henri"
+        },
+        {
+          "id": "05d8d01b-0c2f-450e-9c55-aa0daa34838e",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDJ7YUtMCRMaB2LE6ogP2RbJHCtuZHEkrhQ&usqp=CAU",
+          "name": "Motro"
+        },
+        {
+          "id": "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
+          "image_url": "https://cdn.anisearch.com/images/character/cover/full/13/13993.jpg",
+          "name": "Okami"
+        },
+        {
+          "id": "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+          "image_url": "https://cdna.artstation.com/p/assets/images/images/012/026/636/large/sameer-sadiq-yakul.jpg",
+          "name": "Yakul"
+        },
+        {
+          "id": "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
+          "image_url": "https://cdn.myanimelist.net/s/common/uploaded_files/1447962054-bee4b58a7f033135a8665e0b6cd7acd4.jpeg",
+          "name": "Shishigami"
+        },
+        {
+          "id": "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
+          "image_url": "https://i.pinimg.com/originals/27/54/ad/2754adf81344da5609e1c8959f5f9952.png",
+          "name": "Moro"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -941,8 +1138,18 @@
           "name": "Natori"
         }
       ],
-      "loc": [],
-      "veh": [],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -998,8 +1205,18 @@
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
       "char": [],
-      "loc": [],
-      "veh": [],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -1059,9 +1276,40 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "veh": [],
-      "loc": [],
+      "char": [
+        {
+        "id": "3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede",
+        "image_url": "https://www.anime-planet.com/images/characters/duffi-19034.jpg",
+        "name": "Duffi"
+      },
+      {
+        "id": "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+        "image_url": "https://cdna.artstation.com/p/assets/images/images/012/026/636/large/sameer-sadiq-yakul.jpg",
+        "name": "Yakul"
+      },
+      {
+        "id": "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
+        "image_url": "https://cdn.myanimelist.net/s/common/uploaded_files/1447962054-bee4b58a7f033135a8665e0b6cd7acd4.jpeg",
+        "name": "Shishigami"
+      },
+      {
+        "id": "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
+        "image_url": "https://i.pinimg.com/originals/27/54/ad/2754adf81344da5609e1c8959f5f9952.png",
+        "name": "Moro"
+      }
+    ],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -1116,8 +1364,23 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/a10f64f3-e0b6-4a94-bf30-87ad8bc51607"
       ],
-      "char": [],
-      "loc": [],
+      "char": [
+        {
+          "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c02",
+          "image_url": "https://www.anime-planet.com/images/characters/seita-2416.jpg",
+          "name": "Seita Yokokawa"
+        },
+        {
+          "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c03",
+          "image_url": "https://i.pinimg.com/originals/df/2d/ef/df2defe50e7aa11805a337585cd93ede.jpg",
+          "name": "Setsuko Yokokawa"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
       "veh": [
         {
           "id": "d8f893b5-1dd9-41a1-9918-0099c1aa2de8",
@@ -1184,9 +1447,35 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/89026b3a-abc4-4053-ab1a-c6d2eea68faa"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
+          "image_url": "https://studioghiblimovies.com/wp-content/uploads/2014/11/image0124.jpg",
+          "name": "Henri"
+        },
+        {
+          "id": "05d8d01b-0c2f-450e-9c55-aa0daa34838e",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDJ7YUtMCRMaB2LE6ogP2RbJHCtuZHEkrhQ&usqp=CAU",
+          "name": "Motro"
+        },
+        {
+          "id": "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
+          "image_url": "https://cdn.anisearch.com/images/character/cover/full/13/13993.jpg",
+          "name": "Okami"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -1246,9 +1535,30 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c02",
+          "image_url": "https://www.anime-planet.com/images/characters/seita-2416.jpg",
+          "name": "Seita Yokokawa"
+        },
+        {
+          "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c03",
+          "image_url": "https://i.pinimg.com/originals/df/2d/ef/df2defe50e7aa11805a337585cd93ede.jpg",
+          "name": "Setsuko Yokokawa"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -1303,9 +1613,30 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c02",
+          "image_url": "https://www.anime-planet.com/images/characters/seita-2416.jpg",
+          "name": "Seita Yokokawa"
+        },
+        {
+          "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c03",
+          "image_url": "https://i.pinimg.com/originals/df/2d/ef/df2defe50e7aa11805a337585cd93ede.jpg",
+          "name": "Setsuko Yokokawa"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -1365,9 +1696,30 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c02",
+          "image_url": "https://www.anime-planet.com/images/characters/seita-2416.jpg",
+          "name": "Seita Yokokawa"
+        },
+        {
+          "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c03",
+          "image_url": "https://i.pinimg.com/originals/df/2d/ef/df2defe50e7aa11805a337585cd93ede.jpg",
+          "name": "Setsuko Yokokawa"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",
@@ -1422,9 +1774,30 @@
       "characters": [
         "https://studio-ghibli-universe-api.herokuapp.com/characters/"
       ],
-      "char": [],
-      "loc": [],
-      "veh": [],
+      "char": [
+        {
+          "id": "c491755a-407d-4d6e-b58a-240ec78b5061",
+          "name": "Chibi Totoro",
+          "image_url": "https://cdn.custom-cursor.com/packs/2384/chibi-totoro-leaf--cursor-pack-b.png"
+        },
+        {
+          "id": "f467e18e-3694-409f-bdb3-be891ade1106",
+          "name": "Catbus",
+          "image_url": "https://i.pinimg.com/originals/10/1f/62/101f62dec80f787138b962fb722aaac7.jpg"
+        }
+      ],
+      "loc": [{
+          "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+          "image_url": "https://www.teahub.io/photos/full/230-2307041_princess-mononoke-iron-town.jpg",
+          "name": "Irontown"
+        }],
+      "veh": [
+        {
+          "id": "4e09b023-f650-4747-9ab9-eacf14540cfb",
+          "image_url": "https://i.pinimg.com/originals/63/84/c9/6384c9307df4c18576e564ab90d8e1f6.png",
+          "name": "Air Destroyer Goliath"
+        }
+      ],
       "video_buy": [
         {
           "name": "DVD [Special Features: Alternate Angle Storyboard, The Making, Story Guide, Themes]",

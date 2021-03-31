@@ -1667,10 +1667,10 @@
       "image_url": "https://i.ytimg.com/vi/JfIwOTb-GK8/maxresdefault.jpg"
     },
     {
-      "id": "e08880d0-6938-44f3-b179-81947e7873fc",
+      "id": 1111,
       "name": "Uncle Pom",
       "gender": "Male",
-      "age": "Unspecified/Elderly",
+      "age": 70,
       "eye_color": "Black",
       "hair_color": "White",
       "films": [
@@ -1685,10 +1685,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/d/de/Uncle_Pom.png"
     },
     {
-      "id": "5c83c12a-62d5-4e92-8672-33ac76ae1fa0",
+      "id": "1112",
       "name": "General Muoro",
       "gender": "Male",
-      "age": "Unspecified/Adult",
+      "age": 25,
       "eye_color": "Black",
       "hair_color": "None",
       "films": [
@@ -1703,10 +1703,10 @@
       "image_url": "https://www.cornel1801.com/animated/castle-in-the-sky-1986/pictures/105.jpg"
     },
     {
-      "id": "3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede",
+      "id": 1113,
       "name": "Duffi",
       "gender": "Male",
-      "age": "Unspecified/Adult",
+      "age": 32,
       "eye_color": "Dark brown",
       "hair_color": "Dark brown",
       "films": [
@@ -1721,10 +1721,10 @@
       "image_url": "https://pbs.twimg.com/media/ETZhSpKWsAAxd8D.jpg"
     },
     {
-      "id": "fcb4a2ac-5e41-4d54-9bba-33068db083ca",
+      "id": 1115,
       "name": "Louis",
       "gender": "Male",
-      "age": "30",
+      "age": 30,
       "eye_color": "Dark brown",
       "hair_color": "Dark brown",
       "films": [
@@ -1739,10 +1739,10 @@
       "image_url": "https://studioghiblimovies.com/wp-content/uploads/2014/11/image0105.jpg"
     },
     {
-      "id": "2cb76c15-772a-4cb3-9919-3652f56611d0",
+      "id": 1116,
       "name": "Charles",
       "gender": "Male",
-      "age": "Unspecified/Adult",
+      "age": 28,
       "eye_color": "Dark brown",
       "hair_color": "Light brown",
       "films": [
@@ -1757,10 +1757,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/8/80/Louis.jpg"
     },
     {
-      "id": "f6f2c477-98aa-4796-b9aa-8209fdeed6b9",
+      "id": 7777,
       "name": "Henri",
       "gender": "Male",
-      "age": "Unspecified/Adult",
+      "age": 28,
       "eye_color": "Dark brown",
       "hair_color": "Reddish brown",
       "films": [
@@ -1775,10 +1775,10 @@
       "image_url": "https://studioghiblimovies.com/wp-content/uploads/2014/11/image0124.jpg"
     },
     {
-      "id": "05d8d01b-0c2f-450e-9c55-aa0daa34838e",
+      "id": 7474,
       "name": "Motro",
       "gender": "Male",
-      "age": "Unspecified/Adult",
+      "age": 24,
       "eye_color": "Dark brown",
       "hair_color": "None",
       "films": [
@@ -1793,10 +1793,10 @@
       "image_url": "https://i.pinimg.com/564x/ba/70/72/ba7072b95af1e5ccdf0567b5ee8ffc51--castle-in-the-sky-spirited-away.jpg"
     },
     {
-      "id": "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
+      "id": 5555,
       "name": "Okami",
       "gender": "Female",
-      "age": "50",
+      "age": 50,
       "eye_color": "Dark brown",
       "hair_color": "Orange",
       "films": [
@@ -1811,10 +1811,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/65/Okami.jpg"
     },
     {
-      "id": "ba924631-068e-4436-b6de-f3283fa848f0",
+      "id": 2025,
       "name": "Ashitaka",
       "gender": "Male",
-      "age": "late teens",
+      "age": 18,
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
@@ -1828,10 +1828,10 @@
       "image_url": "https://images3.alphacoders.com/997/997482.jpg"
     },
     {
-      "id": "ebe40383-aad2-4208-90ab-698f00c581ab",
+      "id": 2026,
       "name": "San",
       "gender": "Female",
-      "age": "17",
+      "age": 17,
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
@@ -1845,10 +1845,10 @@
       "image_url": "https://studioghiblimovies.com/wp-content/uploads/2017/03/astri-lohne-sjursen-mononokeb.jpg"
     },
     {
-      "id": "34277bec-7401-43fa-a00a-5aee64b45b08",
+      "id": 2027,
       "name": "Eboshi",
       "gender": "Female",
-      "age": "Unspecified/Adult",
+      "age": 26,
       "eye_color": "Hazel",
       "hair_color": "Black",
       "films": [
@@ -1862,10 +1862,10 @@
       "image_url": "https://i.ytimg.com/vi/vLBhOlnpttQ/maxresdefault.jpg"
     },
     {
-      "id": "91939012-90b9-46e5-a649-96b898073c82",
+      "id": 2028,
       "name": "Jigo",
       "gender": "Male",
-      "age": "Middle age",
+      "age": 30,
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
@@ -1879,10 +1879,10 @@
       "image_url": "https://www.winwallpapers.net/w1/2013/12/Princess-Mononoke-1997-Pictures.jpg"
     },
     {
-      "id": "20e3bd33-b35d-41e6-83a4-57ca7f028d38",
+      "id": 2029,
       "name": "Kohroku",
       "gender": "Male",
-      "age": "Adult",
+      "age": 32,
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
@@ -1897,10 +1897,10 @@
     },
    
     {
-      "id": "116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
+      "id": 2125,
       "name": "Hii-sama",
       "gender": "Female",
-      "age": "Over 50",
+      "age": 52,
       "eye_color": "Brown",
       "hair_color": "White",
       "films": [
@@ -1915,9 +1915,9 @@
     },
     
     {
-      "id": "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
+      "id": 2126,
       "name": "Shishigami",
-      "age": "400",
+      "age": 400,
       "gender": "Male",
       "eye_color": "Red",
       "hair_color": "Light Orange",
@@ -1932,10 +1932,10 @@
       "image_url": "https://cdn.myanimelist.net/s/common/uploaded_files/1447962054-bee4b58a7f033135a8665e0b6cd7acd4.jpeg"
     },
     {
-      "id": "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
+      "id": 2127,
       "name": "Moro",
       "gender": "Female",
-      "age": "300",
+      "age": 300,
       "eye_color": "Brown",
       "hair_color": "White",
       "films": [
@@ -1949,10 +1949,10 @@
       "image_url": "https://i.pinimg.com/originals/27/54/ad/2754adf81344da5609e1c8959f5f9952.png"
     },
     {
-      "id": "7151abc6-1a9e-4e6a-9711-ddb50ea572ec",
+      "id": 2128,
       "name": "Jiji",
       "gender": "Male",
-      "age": "NA",
+      "age": 13,
       "eye_color": "Black",
       "hair_color": "Black",
       "films": [
@@ -1966,10 +1966,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/5/50/Kiki-delivery-disneyscreencaps.com-3393.jpg"
     },
     {
-      "id": "986faac6-67e3-4fb8-a9ee-bad077c2e7fe",
+      "id": 2129,
       "name": "Satsuki Kusakabe",
       "gender": "Female",
-      "age": "11",
+      "age": 11,
       "eye_color": "Dark Brown/Black",
       "hair_color": "Dark Brown",
       "films": [
@@ -1983,10 +1983,10 @@
       "image_url": "https://static.wikia.nocookie.net/disney/images/b/b9/Satsuki.jpg"
     },
     {
-      "id": "d5df3c04-f355-4038-833c-83bd3502b6b9",
+      "id": 2221,
       "name": "Mei Kusakabe",
       "gender": "Female",
-      "age": "4",
+      "age": 4,
       "eye_color": "Brown",
       "hair_color": "Light Brown",
       "films": [
@@ -2000,10 +2000,10 @@
       "image_url": "https://static.wikia.nocookie.net/disney/images/6/6f/Mei.png"
     },
     {
-      "id": "3031caa8-eb1a-41c6-ab93-dd091b541e11",
+      "id": 2100,
       "name": "Tatsuo Kusakabe",
       "gender": "Male",
-      "age": "37",
+      "age": 37,
       "eye_color": "Brown",
       "hair_color": "Dark Brown",
       "films": [
@@ -2017,10 +2017,10 @@
       "image_url": "https://pm1.narvii.com/6864/c73cfe4913ac919b7604713891ab8438d5780742r1-1920-1080v2_hq.jpg"
     },
     {
-      "id": "87b68b97-3774-495b-bf80-495a5f3e672d",
+      "id": 5059,
       "name": "Yasuko Kusakabe",
       "gender": "Female",
-      "age": "Adult",
+      "age": 31,
       "eye_color": "Brown",
       "hair_color": "Dark Brown",
       "films": [
@@ -2034,10 +2034,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/6/68/My_Neighbor_Totoro_-_Sick_mom_and_kids.jpg"
     },
     {
-      "id": "08ffbce4-7f94-476a-95bc-76d3c3969c19",
+      "id": 7117,
       "name": "Granny",
       "gender": "Female",
-      "age": "Elder",
+      "age": 76,
       "eye_color": "Black",
       "hair_color": "Grey",
       "films": [
@@ -2051,10 +2051,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/d/d9/Granny.png"
     },
     {
-      "id": "0f8ef701-b4c7-4f15-bd15-368c7fe38d0a",
+      "id": 3807,
       "name": "Kanta Ogaki",
       "gender": "Male",
-      "age": "11",
+      "age": 11,
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
@@ -2068,9 +2068,9 @@
       "image_url": "https://i.redd.it/8w9g2nqwbh401.jpg"
     },
     {
-      "id": "d39deecb-2bd0-4770-8b45-485f26e1381f",
+      "id": 1381,
       "name": "Totoro",
-      "gender": "NA",
+      "gender": 100,
       "age": "",
       "eye_color": "Grey",
       "hair_color": "Grey",
@@ -2085,9 +2085,9 @@
       "image_url": "https://i.pinimg.com/originals/3a/6b/82/3a6b82651e0a475a336cf94d166f86e1.jpg"
     },
     {
-      "id": "591524bc-04fe-4e60-8d61-2425e42ffb2a",
+      "id": 5429,
       "name": "Chu Totoro",
-      "gender": "NA",
+      "gender": 10,
       "age": "",
       "eye_color": "Black",
       "hair_color": "Blue",
@@ -2102,9 +2102,9 @@
       "image_url": "https://www.clipartmax.com/png/middle/101-1018863_chu-totoro-by-million-mons-project-blue-totoro-png.png"
     },
     {
-      "id": "c491755a-407d-4d6e-b58a-240ec78b5061",
+      "id": 4168,
       "name": "Chibi Totoro",
-      "gender": "NA",
+      "gender": 20,
       "age": "",
       "eye_color": "Black",
       "hair_color": "White",
@@ -2119,10 +2119,10 @@
       "image_url": "https://cdn.custom-cursor.com/packs/2384/chibi-totoro-leaf--cursor-pack-b.png"
     },
     {
-      "id": "f467e18e-3694-409f-bdb3-be891ade1106",
+      "id": 1008,
       "name": "Catbus",
       "gender": "Male",
-      "age": "NA",
+      "age": 80,
       "eye_color": "Yellow",
       "hair_color": "Brown",
       "films": [
@@ -2136,10 +2136,10 @@
       "image_url": "https://i.pinimg.com/originals/10/1f/62/101f62dec80f787138b962fb722aaac7.jpg"
     },
     {
-      "id": "89026b3a-abc4-4053-ab1a-c6d2eea68faa",
+      "id": 8902,
       "name": "Niya",
       "gender": "Male",
-      "age": "NA",
+      "age": 21,
       "eye_color": "White",
       "hair_color": "Beige",
       "films": [
@@ -2153,10 +2153,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/5/5a/Niya.jpg"
     },
     {
-      "id": "6b3facea-ea33-47b1-96ce-3fc737b119b8",
+      "id": 6369,
       "name": "Renaldo Moon aka Moon aka Muta",
       "gender": "Male",
-      "age": "NA",
+      "age": 22,
       "eye_color": "White",
       "hair_color": "Beige",
       "films": [
@@ -2176,10 +2176,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/e/e7/Muta.png"
     },
     {
-      "id": "3042818d-a8bb-4cba-8180-c19249822d57",
+      "id": 1803,
       "name": "Cat King",
       "gender": "Male",
-      "age": "87",
+      "age": 87,
       "eye_color": "Emerald",
       "hair_color": "Grey",
       "films": [
@@ -2193,10 +2193,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/3/37/Cat_King.jpg"
     },
     {
-      "id": "58d1973f-f247-47d7-9358-e56cb0d2b5a6",
+      "id":6901,
       "name": "Yuki",
       "gender": "Female",
-      "age": "NA",
+      "age": 35,
       "eye_color": "Blue",
       "hair_color": "White",
       "films": [
@@ -2210,10 +2210,10 @@
       "image_url": "https://pm1.narvii.com/7311/82f472d7a117d57f060f731c4c01f053dd7ed9adr1-2048-1536v2_hq.jpg"
     },
     {
-      "id": "a3d8e70f-46a0-4e5a-b850-db01620d6b92",
+      "id": 6902,
       "name": "Haru",
       "gender": "Female",
-      "age": "13",
+      "age": 13,
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
@@ -2227,10 +2227,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/2/27/Haru_Yoshioka.jpg"
     },
     {
-      "id": "fc196c4f-0201-4ed2-9add-c6403f7c4d32",
+      "id": 6904,
       "name": "Baron Humbert von Gikkingen",
       "gender": "Male",
-      "age": "NA",
+      "age": 21,
       "eye_color": "Green",
       "hair_color": "Yellow",
       "films": [
@@ -2251,10 +2251,10 @@
       "image_url": "https://i.pinimg.com/originals/75/30/07/753007f26d264d3be59f0e7b02a083ee.jpg"
     },
     {
-      "id": "466bc926-2024-4653-ac63-fe52f2dc8c7b",
+      "id": 6905,
       "name": "Natori",
       "gender": "Male",
-      "age": "NA",
+      "age": 16,
       "eye_color": "Blue",
       "hair_color": "Grey",
       "films": [
@@ -2268,10 +2268,10 @@
       "image_url": "https://static.wikia.nocookie.net/studio-ghibli/images/c/c4/Natori.jpg"
     },
     {
-      "id": "6523068d-f5a9-4150-bf5b-76abe6fb42c3",
+      "id": 65231,
       "name": "Porco Rosso",
       "gender": "Male",
-      "age": "47",
+      "age": 47,
       "eye_color": "Black",
       "hair_color": "Brown",
       "films": [
@@ -2285,10 +2285,10 @@
       "image_url": "https://studioghiblimovies.com/wp-content/uploads/2018/05/36.jpg"
     },
     {
-      "id": "a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
+      "id": 51076,
       "name": "Sosuke",
       "gender": "Male",
-      "age": "5",
+      "age": 5,
       "eye_color": "Brown",
       "hair_color": "Brown",
       "films": [
